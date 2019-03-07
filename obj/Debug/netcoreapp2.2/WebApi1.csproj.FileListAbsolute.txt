@@ -1,0 +1,14 @@
+/Users/neno/WorkSpace/CSharpp/WebApi1/bin/Debug/netcoreapp2.2/WebApi1.deps.json
+/Users/neno/WorkSpace/CSharpp/WebApi1/bin/Debug/netcoreapp2.2/WebApi1.runtimeconfig.json
+/Users/neno/WorkSpace/CSharpp/WebApi1/bin/Debug/netcoreapp2.2/WebApi1.runtimeconfig.dev.json
+/Users/neno/WorkSpace/CSharpp/WebApi1/bin/Debug/netcoreapp2.2/WebApi1.dll
+/Users/neno/WorkSpace/CSharpp/WebApi1/bin/Debug/netcoreapp2.2/WebApi1.pdb
+/Users/neno/WorkSpace/CSharpp/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.csprojAssemblyReference.cache
+/Users/neno/WorkSpace/CSharpp/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.csproj.CoreCompileInputs.cache
+/Users/neno/WorkSpace/CSharpp/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.RazorAssemblyInfo.cache
+/Users/neno/WorkSpace/CSharpp/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.RazorAssemblyInfo.cs
+/Users/neno/WorkSpace/CSharpp/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.AssemblyInfoInputs.cache
+/Users/neno/WorkSpace/CSharpp/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.AssemblyInfo.cs
+/Users/neno/WorkSpace/CSharpp/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.RazorTargetAssemblyInfo.cache
+/Users/neno/WorkSpace/CSharpp/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.dll
+/Users/neno/WorkSpace/CSharpp/WebApi1/obj/Debug/netcoreapp2.2/WebApi1.pdb
